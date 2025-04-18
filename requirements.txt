@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+xgboost
+joblib
+
+
+Notes:
+nltk is used in text-based projects like Spam Identifier and Fake News Predictor.
+
+xgboost is used in some regression/classification models.
+
+joblib is commonly used to save ML models.
